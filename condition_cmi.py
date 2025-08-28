@@ -72,4 +72,4 @@ Discht_input = input("Discht : ")
 DateDsc_input = input("DateDsc : ")
 TimeDsc_input = input("TimeDsc : ")
 Leave_day_input = input("Leave day : ")
-los_input = input("los_input : ")
+los_input = input("los_input : ") #TEST
